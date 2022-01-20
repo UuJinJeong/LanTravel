@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "361697837590",
+    "project_id": "lantravel-3f7de",
+    "storage_bucket": "lantravel-3f7de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361697837590:android:e597f29e626b3642eceb37",
+        "android_client_info": {
+          "package_name": "com.example.lantravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361697837590-inh7kqt97mbdk13hgeoqn6bgl20kietd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lantravel",
+            "certificate_hash": "bfe46c2e158f9af8d900f9155928b5128434da55"
+          }
+        },
+        {
+          "client_id": "361697837590-48eit50jvdt71hfltempilrrfvf3cg6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP8YzLRUGR4wUS6xKIXFms5kq1snNFloY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361697837590-48eit50jvdt71hfltempilrrfvf3cg6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
